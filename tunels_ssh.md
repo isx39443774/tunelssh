@@ -1,4 +1,4 @@
-### TUNELS SSH
+# TUNELS SSH
 
 ## Índex
 
@@ -7,7 +7,7 @@
 - [Exercici 16 ldap local i phpldapadmin remot](#16-ldap-local-i-phpldapadmin-remot)
 
 
-# 15 ldap remot i phpldapadmin local
+### 15 ldap remot i phpldapadmin local
 
 
 Configurem el nostre security-groups de amazon amb l'entorn gràfic perquè només estigui
@@ -58,7 +58,7 @@ bash startup.sh
 
 
 
-# 16 ldap local i phpldapadmin remot
+### 16 ldap local i phpldapadmin remot
 
 Engegem el container ldap local
 ```
